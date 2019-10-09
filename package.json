@@ -1,0 +1,19 @@
+{
+  "name": "find-word",
+  "version": "1.0.0",
+  "description": "### Find the Word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladharagea/find-word.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladharagea/find-word/issues"
+  },
+  "homepage": "https://github.com/vladharagea/find-word#readme"
+}
