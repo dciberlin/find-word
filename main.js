@@ -28,5 +28,5 @@ readStream.on("data", chunk => {
 
 readStream.on("end", () => {
    console.log("end of data");
-   console.log( `we found ${wordtopass} ${res} times and we had ${chunknumb} chunks`);
+   console.log( `we found "${wordtopass}" ${res} times and we had ${chunknumb} chunks`);
 });
